@@ -1,0 +1,19 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.image {
+  width: 180px;
+  height: 180px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.name {
+  color: black;
+  font-family: Roboto;
+  font-size: 15px;
+  margin-left: 28px;
+  width: 150px;
+}
